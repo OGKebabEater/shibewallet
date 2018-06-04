@@ -8,7 +8,7 @@ the simplest and most secure dogecoin wallet on any platform
 
 **Features:**
 
-- the first real dogecoin client for iOS 
+- the Best and Only  dogecoin client for iOS 
 - doesn't rely on any server or web service 
 - single backup phrase that works forever 
 - private keys never leave your device 
@@ -19,7 +19,7 @@ the simplest and most secure dogecoin wallet on any platform
 
 **Security:**
 
-doughcoin represents a major step forward in dogecoin wallet security. It is
+dogewallet represents a major step forward in dogecoin wallet security. It is
 designed to be secure against malware, security issues with other apps, and
 even physical theft. It makes full use of the security features provided by iOS,
 including AES hardware encryption, app sandboxing and data protection, code
@@ -27,7 +27,7 @@ signing, and keychain services.
 
 **Reliability:**
 
-Unlike other iOS dogecoin wallets, doughwallet is a real dogecoin client. There
+Unlike other iOS dogecoin wallets, dogewallet is a real dogecoin client. There
 are no external web services or servers to get hacked or go down, so you always
 have access to your money. It uses "simplified payment verification" or
 [SPV](https://en.bitcoin.it/wiki/Thin_Client_Security#Header-Only_Clients) mode
@@ -44,7 +44,7 @@ is possible because doughwallet is a
 "deterministic" wallet, meaning that all your dogecoin addresses and private
 keys are generated from a single "seed".
 
-doughwallet is open source and available under the terms of the MIT license.
+dogewallet is open source and available under the terms of the MIT license.
 Source code is available at https://github.com/peritus/doughwallet
 
 **WARNING:** installation on jailbroken devices is strongly discouraged
