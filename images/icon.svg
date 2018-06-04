@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1"
+	 id="Layer_1"
+	 xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="1024px" height="1024px"
+	 viewBox="0 0 1024 1024" enable-background="new 0 0 1024 1024" xml:space="preserve">
+<switch>
+	<g>
+		<g id="i">
+    <linearGradient
+       id="SVGID_1_"
+       x1="0%"
+       y1="0%"
+       x2="0%"
+       y2="100%">
+      <stop
+         offset="0%"
+         style="stop-color:rgb(224,209,167);stop-opacity:1"
+         id="stop7" />
+      <stop
+         offset="70%"
+         style="stop-color:rgb(224,209,167);stop-opacity:1"
+         id="stop9" />
+      <stop
+         offset="100%"
+         style="stop-color:rgb(191,178,136);stop-opacity:1"
+         id="stop11" />
+    </linearGradient>
+
+			<path fill="url(#SVGID_1_)" d="M50,0h130c27.614,0,50,22.386,50,50v130c0,27.614-22.386,50-50,50H50c-27.614,0-50-22.386-50-50
+				V50C0,22.386,22.386,0,50,0z"/>
+		</g>
+		<g id="b" transform="translate(80,50)" opacity="0.67">
+			<path fill-opacity="0" stroke="#FFFFFF" stroke-width="20" stroke-linecap="round" d="M70,79V-1"/>
+			<circle fill-opacity="0" stroke="#FFFFFF" stroke-width="20" stroke-linecap="round" cx="30" cy="79" r="40"/>
+			<path fill-opacity="0" stroke="#FFFFFF" stroke-width="15" stroke-linecap="round" d="M40,14h45"/>
+		</g>
+	</g>
+</switch>
+</svg>
