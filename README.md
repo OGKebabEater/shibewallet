@@ -4,7 +4,7 @@ The remastering of the Original Doughwallet Wallet for IOS
 
 **Dogecoin done right**
 
-the simplest and most secure dogecoin wallet on any platform 
+The simplest and most secure dogecoin wallet on any platform ever
 
 **Features:**
 
