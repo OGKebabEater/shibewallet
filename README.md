@@ -1,4 +1,4 @@
-Dogewallet- The New and Improved Version- Made for the Shibes by the Shibes
+Shibewallet- The New and Improved Version- Made for the Shibes by the Shibes
 ----------------------------------
 The remastering of the Original Doughwallet Wallet for IOS
 
@@ -19,7 +19,7 @@ The simplest and most secure dogecoin wallet on any platform ever
 
 **Security:**
 
-Dough Remade represents a major step forward in dogecoin wallet security. It is
+Shibewallet represents a major step forward in dogecoin wallet security. It is
 designed to be secure against malware, security issues with other apps, and
 even physical theft. It makes full use of the security features provided by iOS,
 including AES hardware encryption, app sandboxing and data protection, code
@@ -27,7 +27,7 @@ signing, and keychain services.
 
 **Reliability:**
 
-Unlike other iOS dogecoin wallets, Dough Remade is a real dogecoin client. There
+Unlike other iOS dogecoin wallets, Shibewallet is a real dogecoin client. There
 are no external web services or servers to get hacked or go down, so you always
 have access to your money. It uses "simplified payment verification" or
 [SPV](https://en.bitcoin.it/wiki/Thin_Client_Security#Header-Only_Clients) mode
@@ -39,7 +39,7 @@ need in a mobile environment.
 Your entire wallet is backed up with a single convenient backup phrase that
 will work forever. If your device is ever lost or broken, use your backup
 phrase to restore your balance and transaction history on another device. This
-is possible because doughwallet is a 
+is possible because shibewallet is a 
 [BIP32](https://github.com/bitcoin/bips/blob/master/bip-0032.mediawiki)
 "deterministic" wallet, meaning that all your dogecoin addresses and private
 keys are generated from a single "seed".
